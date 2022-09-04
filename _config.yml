@@ -106,3 +106,7 @@ deploy:
   repo: https://github.com/William-Abbot/William-Abbot.github.io
   # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+# Miscellaneous 
+github: https://github.com/William-Abbot
+favicon: themes\landscape\source\css\images\favicon.ico
