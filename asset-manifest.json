@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/William-Abbot.github.io/static/css/main.673f44c4.css",
+    "main.js": "/William-Abbot.github.io/static/js/main.cb792534.js",
+    "static/js/787.28cb0dcd.chunk.js": "/William-Abbot.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/William-Abbot.github.io/index.html",
+    "main.673f44c4.css.map": "/William-Abbot.github.io/static/css/main.673f44c4.css.map",
+    "main.cb792534.js.map": "/William-Abbot.github.io/static/js/main.cb792534.js.map",
+    "787.28cb0dcd.chunk.js.map": "/William-Abbot.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.673f44c4.css",
+    "static/js/main.cb792534.js"
+  ]
+}
